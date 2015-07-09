@@ -13,7 +13,7 @@ class augeas {
 
       package { 'augeas':
         name   => 'boxen/brews/augeas',
-        ensure => '0.8.1-boxen2'
+        ensure => '1.3.0-boxen2'
       }
     }
 
